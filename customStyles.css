@@ -1,0 +1,29 @@
+/* Color Scheme colors
+   C5C6C7
+   45A29E*/
+
+.dark_primary{
+    background-color: #0B0C10;
+}
+
+.primary{
+    background-color: #1F2833;
+    color: #FFFFFF;
+    padding: 20px;
+}
+
+.color_text_bright {
+    color: #66FCF1;
+}
+
+.color_text_dull {
+    color: #45A29E;
+}
+
+.color_text_dull_grey {
+    color: #C5C6C7;
+}
+
+.color_text_white {
+    color: #FFFFFF;
+}
